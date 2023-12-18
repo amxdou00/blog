@@ -80,9 +80,10 @@ Let's look at the open ports on the box first
 ```
 netstat -ltu
 ```
-- `-l`: Only shows listening ports
-- `-t`: TCP ports
-- `-u`: UDP ports
+
+* `-l`: Only shows listening ports
+* `-t`: TCP ports
+* `-u`: UDP ports
 
 ![](images/Password%20Attacks%20Lab%20-%20Medium/open_ports.png)
 
