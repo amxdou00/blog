@@ -7,20 +7,23 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - navigation.path
+    - navigation.sections
+    - navigation.top
   language: en
   palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline
-        name: Dark mode
-      primary: teal
-      accent: purple
+        name: Light mode
+      primary: green
+      accent: green
     - scheme: slate
       toggle:
         icon: material/toggle-switch
-        name: Light mode
-      primary: indigo
-      accent: green
+        name: Dark mode
+      primary: green
+      accent: light-green
 
 extra:
   social:

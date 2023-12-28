@@ -33,6 +33,7 @@ find / -name *.keytab -type f 2>/dev/null
 ![](images/PasswordAttacks_ptt_linux/q3.png)
 
 We can see that we have read and write access to carlos's keytab file.
+
 Answer: **carlos.keytab**
 ____
 
