@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>untagged on Amxdou&#39;s blog</title>
+    <link>https://amxdou00.github.io/tags/untagged/</link>
+    <description>Recent content in untagged on Amxdou&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 27 Sep 2024 01:30:45 +0200</lastBuildDate>
+    <atom:link href="https://amxdou00.github.io/tags/untagged/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>https://amxdou00.github.io/posts/first/</link>
+      <pubDate>Fri, 27 Sep 2024 01:30:45 +0200</pubDate>
+      <guid>https://amxdou00.github.io/posts/first/</guid>
+      <description>Some random markdown&#xA;lol fjioewjf ljifo oiwfjeow&#xA;some code&#xA;package main import &amp;#34;fmt&amp;#34; func main() { fmt.Printf(&amp;#34;Hello&amp;#34;) } </description>
+    </item>
+  </channel>
+</rss>
