@@ -1,0 +1,4 @@
+baseURL = 'https://amxdou00.github.io/'
+languageCode = 'en-us'
+title = "Amxdou's blog"
+theme = "hello-friend-ng"
