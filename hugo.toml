@@ -1,4 +1,4 @@
-baseURL = 'https://amxdou00.github.io/'
+baseURL = 'https://amxdou00.github.io/docs'
 languageCode = 'en-us'
 title = "Amxdou's blog"
 theme = "hello-friend-ng"
